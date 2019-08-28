@@ -1,0 +1,12 @@
+apt-get install curl
+apt-get install wget
+apt-get install tar
+apt-get install zip
+apt-get install unzip
+apt-get install vim
+apt-get install git
+apt-get install net-tools
+apt-get install tcp-dump
+apt-get install ssh
+apt-get install fail2ban
+apt-get install portsentry
